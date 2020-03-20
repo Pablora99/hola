@@ -1,4 +1,4 @@
-//package paquetePrueba;
+package package com.numero.demo.util;
 public class NumeroEntero {
  
 /* Dejamos todo preparado por si queremos añadir soporte para numeros decimales
