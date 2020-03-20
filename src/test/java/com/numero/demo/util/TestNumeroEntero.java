@@ -1,4 +1,4 @@
-package paquetePrueba;
+package com.numero.demo;
  
 import static org.junit.Assert.*;
  
